@@ -3,3 +3,5 @@ Get the URL from the clipboard, adjust the settings depending on the site, and r
 
 Need ffmpeg.exe and ytdlp.exe
 https://github.com/yt-dlp
+
+保存先は適宜変更してください。
